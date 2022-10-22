@@ -1,14 +1,27 @@
+body {
+    background-color: #242333;
+}
+
 #bio {
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Fuzzy Bubbles', cursive;
     font-size: 2em;
+    color: white;
 }
 
 #achievements {
     font-family: 'Courier New', Courier, monospace;
     font-size: 2em;
+    color: white;
 }
 
 #skills {
     font-family: 'Courier New', Courier, monospace;
     font-size: 2em;
+    color: white;
+}
+
+#footer {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2em;
+    color: white;
 }
